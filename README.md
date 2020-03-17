@@ -1,3 +1,7 @@
+---
+description: Life is a dataset. Every dimension counts.
+---
+
 # JI Abroad Doc Introduction
 
 JIAbroadDoc 是一个基于自愿分享的密院留学申请经验交流项目。所有密院毕业的同学们都可以加入到这个项目中来。JIAboradDoc 致力于成为最有用的密院留学资料平台。希望学长和学姐的经验可以帮助学弟学妹们减少选校等申请各个环节的迷茫（以及少被中介收智商税）。
