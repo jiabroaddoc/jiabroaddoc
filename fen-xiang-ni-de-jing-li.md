@@ -6,7 +6,11 @@
 
 三个板块的markdown模板可以在以下链接下载：
 
+{% file src=".gitbook/assets/xuan-xiao-zhi-nan-mo-ban.md" caption="选校指南模板" %}
 
+{% file src=".gitbook/assets/shen-qing-jing-yan-mo-ban.md" caption="申请经验模板" %}
+
+{% file src=".gitbook/assets/jiu-du-ti-yan-mo-ban.md" caption="就读体验模板" %}
 
 写好后请投稿到jiabroaddoc@gmail.com。我们会简单审核后添加到JIAbroadDoc中。更为便捷的投稿方式和网站建设还在计划中（我们也很希望在不久的将来能做出来 🧐 ）。
 
