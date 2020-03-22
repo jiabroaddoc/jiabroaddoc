@@ -8,5 +8,6 @@
   * [ECE内正交申请的数据点](shen-qing-jing-yan/ece-nei-zheng-jiao-shen-qing-de-shu-ju-dian.md)
 * [就读体验](jiu-du-ti-yan/README.md)
   * [MIT：如何实现梦想（模板）](jiu-du-ti-yan/mit-ru-he-shi-xian-meng-xiang-mo-ban.md)
+  * [咸鱼续命感悟](jiu-du-ti-yan/xian-yu-xu-ming-gan-wu.md)
 * [分享你的经历](fen-xiang-ni-de-jing-li.md)
 
