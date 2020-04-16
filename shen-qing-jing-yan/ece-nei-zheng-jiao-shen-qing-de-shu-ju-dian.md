@@ -18,15 +18,15 @@
 * UCB, EECS, MEng: 还没消息
 * UCSD, ECE, MS: 还没消息
 * UCLA, EE, MS: wl
-* Gatech, bioECE, MS: 还没消息
+* Gatech, bioECE, MS: rej
 * JHU, ECE, MSE: ad \(accept\)
-* UPenn, DS, MS: 还没消息
+* UPenn, DS, MS: rej
 * UT-Austin, bioECE, MS: 还没消息
-* Umich, ECE, MS: 没消息
+* Umich, ECE, MS: ad
 * USC, ECE, MS: ad
 * Duke, ECE, MS: ad 
 * Columbia, EE, MS: ad
-* UIUC, ECE, MS: 没消息
+* UIUC, ECE, MS: rej
 
 ## 心得与经验 <a id="xin-de"></a>
 
