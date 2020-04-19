@@ -49,3 +49,13 @@ Integrated Product Design track Innovation Management and Product Development
 
 学习生活上，同学A对这里的教育资源（课程设计、老师、助教、lab）是比较满意的，（但说实话，）学生质量和教育质量存在矛盾。
 
+## 相关链接
+
+同学A：
+
+{% page-ref page="../shen-qing-jing-yan/kth-3+2-xiang-mu-shen-qing-jing-yan.md" %}
+
+{% page-ref page="../jiu-du-ti-yan/kth-jiang-jin-ba-ge-yue-bei-ou-sheng-huo-zhi-hou-de-yi-xie-sui-sui-nian.md" %}
+
+
+

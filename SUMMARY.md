@@ -6,9 +6,11 @@
   * [KTH](mi-yuan-xuan-xiao-zhi-nan/kth.md)
 * [申请经验](shen-qing-jing-yan/README.md)
   * [如何秒杀四大（模板）](shen-qing-jing-yan/ru-he-miao-sha-si-da-mo-ban.md)
+  * [KTH 3+2项目申请经验](shen-qing-jing-yan/kth-3+2-xiang-mu-shen-qing-jing-yan.md)
   * [从零开始的ECE申请生活](shen-qing-jing-yan/ece-nei-zheng-jiao-shen-qing-de-shu-ju-dian.md)
 * [就读体验](jiu-du-ti-yan/README.md)
   * [MIT：如何实现梦想（模板）](jiu-du-ti-yan/mit-ru-he-shi-xian-meng-xiang-mo-ban.md)
-  * [UMSI:咸鱼续命感悟](jiu-du-ti-yan/xian-yu-xu-ming-gan-wu.md)
+  * [UMSI：咸鱼续命感悟](jiu-du-ti-yan/xian-yu-xu-ming-gan-wu.md)
+  * [KTH：将近八个月北欧生活之后的一些碎碎念](jiu-du-ti-yan/kth-jiang-jin-ba-ge-yue-bei-ou-sheng-huo-zhi-hou-de-yi-xie-sui-sui-nian.md)
 * [分享你的经历](fen-xiang-ni-de-jing-li.md)
 
