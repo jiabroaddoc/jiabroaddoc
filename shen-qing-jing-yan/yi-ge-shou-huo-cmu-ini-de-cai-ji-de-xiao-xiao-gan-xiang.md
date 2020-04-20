@@ -1,12 +1,12 @@
 # 一个收获CMU INI的菜鸡的小小感想
 
-## 简介 <a id="intro"></a>
+## 简介
 
 我是不愿意透露姓名的菜鸡1号，今年非常幸运地被CMU INI录取。鄙人天资一般，所幸努力四年最后的成果还是挺让自己满意的。
 
 本人申请时，主要是申请ECE和CS专业，选择的ECE项目，大多也都是比较偏软的。当时的申请目标其实很简单，只要USC要我，我就满意了。
 
-## 背景 <a id="background"></a>
+## 背景
 
 * Major: NonDD, ECE
 * GPA: 3.64 (核心3.7), rank 未知
@@ -15,7 +15,7 @@
 * Research/Intern: 有三段research，没有实习。一篇论文二作。
 * Recommendation: 一位课程老师，一位课程+做过他课程TA的老师，一位research老师
 
-## 申请结果 <a id="apply"></a>
+## 申请结果
 
 ### 选校 <a id="apply-program"></a>
 
